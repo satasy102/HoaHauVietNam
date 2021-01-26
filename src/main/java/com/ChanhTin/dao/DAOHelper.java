@@ -11,9 +11,9 @@ public class DAOHelper{
     protected Connection connection;
 
     static {
-        jdbcURL = "jdbc:postgresql://localhost:5432/hoahau";
-        jdbcUsername = "postgres";
-        jdbcPassword = "123123";
+        jdbcURL = "jdbc:postgresql://ec2-52-44-235-121.compute-1.amazonaws.com:5432/d4t6b7mrqr9gt5?sslmode=require";
+        jdbcUsername = "xoniitypbytqsj";
+        jdbcPassword = "2a4337e610f8603e136baa7660f843d4944a3aab5969d368fa83c2b622047e1f";
     }
 
     protected void connection() {
