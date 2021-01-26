@@ -13,7 +13,7 @@ import java.io.IOException;
 import java.sql.SQLException;
 import java.util.List;
 
-@WebServlet(name = "HomeServlet", urlPatterns = "/home")
+@WebServlet(name = "HomeServlet", urlPatterns = "/")
 public class HomeServlet extends HttpServlet {
     ThiSinhService thiSinhService=new ThiSinhService();
     BaiVietService baiVietService=new BaiVietService();
