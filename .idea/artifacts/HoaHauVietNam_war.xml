@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="HoaHauVietNam:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>HoaHauVietNam</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="HoaHauVietNam-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="HoaHauVietNam:war exploded" />
+    </root>
+  </artifact>
+</component>

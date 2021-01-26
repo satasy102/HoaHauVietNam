@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/admin-home.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin-assets" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/baiviet.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin-assets" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/baiviet/baiviet.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/baiviet/suabaiviet.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/baiviet/thembaiviet.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/biloai.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin-assets" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/chuaduyet.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin-assets" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/dantoc/dantoc.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/dantoc/suadantoc.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/dantoc/themdantoc.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/suathisinh.jsp" value="file://$PROJECT_DIR$/src/main/webapp/admin-assets" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/thisinh/suathisinh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/thisinh/themthisinh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/thisinh/thongtinthisinh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/tinhthanh/suatinhthanh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/tinhthanh/themtinhthanh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/tinhthanh/tinhthanh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/trangchuAdmin.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/trinhdovanhoa/suatdvh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/trinhdovanhoa/themtdvh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/admin-assets/trinhdovanhoa/trinhdovh.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/login-assets/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/login-assets/login.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/ui/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/ui" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/views/ui/tintuc.jsp" value="file://$PROJECT_DIR$/src/main/webapp/views/ui" />
+      </map>
+    </option>
+  </component>
+</project>
