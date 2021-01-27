@@ -33,6 +33,8 @@ public class ThiSinhService extends ValidateHelper implements IThiSinhService {
             danhSachLoi.add("Lỗi nhập Nghề nghiệp");
         if (!regexName(thiSinh.getDonViCongTac(), 200, 1))
             danhSachLoi.add("Lỗi nhập Đơn vị công tác");
+        if (!regexAge(thiSinh.getNgaySinh()))
+            danhSachLoi.add("Lỗi nhập ngày sinh. Tuổi phải từ 18-35.");
         if (!validatePositiveNum(thiSinh.getChieuCao()))
             danhSachLoi.add("Lỗi nhập Chiều cao");
         if (!validatePositiveNum(thiSinh.getCanNang()))

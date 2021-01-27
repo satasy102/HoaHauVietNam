@@ -145,12 +145,12 @@
                 </h2>
                 <ul class="list-unstyled list-inline list-logos pull-left no-margin">
                     <li>
-                        <a href="http://tienphong.vn/" target="_blank">
+                        <a href="https://tienphong.vn/" target="_blank">
                             <img src="../../ui-assets/assets/img/logos/logo_tienphong.png" alt="">
                         </a>
                     </li>
                     <li>
-                        <a href="http://senvangvn.com/" target="_blank">
+                        <a href="https://senvangvn.com/" target="_blank">
                             <img src="../../ui-assets/assets/img/logos/logo_senvang.png" alt="">
                         </a>
                     </li>

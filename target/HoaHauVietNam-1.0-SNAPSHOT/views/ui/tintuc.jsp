@@ -25,7 +25,7 @@
     <!-- JS owlcarousel -->
     <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript"
-            src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
+            src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.13.1/jquery.validate.min.js"></script>
     <script src="../../ui-assets/owlcarousel/owl.carousel.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
@@ -107,12 +107,12 @@
         <div class="content-sidebar col-xs-12 col-md-4 col-sm-4">
             <h2 class="block-title">ĐƠN VỊ TỔ CHỨC</h2>
             <div class="text-align-center">
-                <a href="http://tienphong.vn/" target="_blank">
+                <a href="https://tienphong.vn/" target="_blank">
                     <img src="../../ui-assets/assets/img/logos/logo_tienphong.png" alt="">
                 </a>
             </div>
             <div class="text-align-center">
-                <a href="http://senvangvn.com/" target="_blank">
+                <a href="https://senvangvn.com/" target="_blank">
                     <img src="../../ui-assets/assets/img/logos/logo_senvang.png" alt="">
                 </a>
             </div>

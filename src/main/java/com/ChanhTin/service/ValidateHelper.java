@@ -1,5 +1,7 @@
 package com.ChanhTin.service;
 
+import java.sql.Date;
+import java.time.Period;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -77,5 +79,20 @@ public class ValidateHelper {
         return str;
     }
 
+    private static int calculateAge(Date birthDate, Date currentDate) {
+        if ((birthDate != null) && (currentDate != null)) {
+            return Period.between(birthDate.toLocalDate(), currentDate.toLocalDate()).getYears();
+        } else {
+            return 0;
+        }
+    }
+
+    public static boolean regexAge(Date birthDate){
+        java.util.Date utilDate = new java.util.Date();
+        Date currentDate = new Date(utilDate.getTime());
+        int age = calculateAge(birthDate,currentDate);
+
+        return age >= 18 && age <= 35;
+    }
 
 }
