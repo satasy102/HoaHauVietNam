@@ -20,8 +20,8 @@ public class BaiVietDAO extends DAOHelper implements BaseDAO<BaiViet> {
 
     static {
         SELECT_ALL_BAIVIET_SQL = "select * from public.baiviet where \"trangThaiXoa\"=false order by \"maBaiViet\" DESC ";
-        INSERT_BAIVIET_SQL = "INSERT INTO public.baiviet (\"tieuDe\",\"noiDungTomTat\",\"noiDung\", \"anhTieuDe\") VALUES (?,?,?,?);";
-        UPDATE_BAIVIET_SQL = "update public.baiviet set \"tieuDe\" = ?, \"noiDungTomTat\"=?, \"noiDung\"=?, \"anhTieuDe\"=? where \"maBaiViet\" = ?;";
+        INSERT_BAIVIET_SQL = "insert into public.baiviet (\"tieuDe\",\"noiDungTomTat\",\"noiDung\",\"anhTieuDe\") VALUES (?,?,?,?);";
+        UPDATE_BAIVIET_SQL = "update public.baiviet set \"tieuDe\" = ?,\"noiDungTomTat\"=?,\"noiDung\"=?,\"anhTieuDe\"=? where \"maBaiViet\" = ?;";
         DELETE_BAIVIET_SQL = "update public.baiviet set \"trangThaiXoa\"=true where \"maBaiViet\" = ?;";
         GET_BAIVIET_BYID_SQL = "select * from public.baiviet where \"maBaiViet\"=? and \"trangThaiXoa\"=false;";
         GET_BAIVIET_SOMNHAT_SQL = "select * from public.baiviet where \"trangThaiXoa\"=false order by \"maBaiViet\" desc limit 10;";
