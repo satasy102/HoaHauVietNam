@@ -88,7 +88,7 @@
                 <div>
                     <div class="card" style="width: 100%; height: 26rem">
                         <a href="chitietbaiviet?id=${baiViet.maBaiViet}">
-                            <img class="card-img-top" src="<c:url value="${baiViet.anhTieuDe}"/>" alt="Card image cap">
+                            <img class="card-img-top" src="<c:url value="${baiViet.anhTieuDe}"/>" alt="Card image cap" style="height:15em" >
                         </a>
                         <div class="card-body" style="overflow: hidden; text-overflow: ellipsis; ">
                             <a href="chitietbaiviet?id=${baiViet.maBaiViet}">
